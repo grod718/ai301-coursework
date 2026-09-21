@@ -37,4 +37,5 @@ you want to avoid. The skill uses this only to RANK the issues your
 rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
-(Write a few sentences here.)
+I work mostly in Python: Flask and SQLAlchemy bug fixes, RAG pipelines with ChromaDB and sentence-transformers, and Docker on Windows. I am comfortable with branch-based Git workflows and writing tests. I want to get better at agentic and RAG systems and at evaluating AI-assisted code.
+
